@@ -43,31 +43,31 @@ Ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone https://github.com/Swathi97054/ToDo-List-App.git
+    cd ToDo-List-App
     ```
     (Replace `<your-repository-url>` and `<your-repository-name>` with your actual repository details.)
 
 2.  **Install dependencies:**
-    \`\`\`bash
+    ```bash
     npm install
     # or
     yarn install
     # or
     pnpm install
-    \`\`\`
+    ```
 
 ### Running the Development Server
 
 To start the development server:
 
-\`\`\`bash
+```bash
 npm run dev
 # or
 yarn dev
 # or
 pnpm dev
-\`\`\`
+```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
