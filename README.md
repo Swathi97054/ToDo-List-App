@@ -42,10 +42,10 @@ Ensure you have the following installed:
 ### Installation
 
 1.  **Clone the repository:**
-    \`\`\`bash
+    ```bash
     git clone <your-repository-url>
     cd <your-repository-name>
-    \`\`\`
+    ```
     (Replace `<your-repository-url>` and `<your-repository-name>` with your actual repository details.)
 
 2.  **Install dependencies:**
